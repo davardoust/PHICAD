@@ -37,6 +37,10 @@ PHICAD can be used for:
 - Studying socio-cultural dynamics in online Persian discourse.  
 - Developing robust and unbiased content moderation systems for Persian-speaking users.  
 
+## Related Paper
+
+For more details, please refer to the associated paper: [The Dark Side of Instagram: A Large Dataset for Identifying Persian Harmful Comments](<https://www.researchgate.net/publication/386905191>)
+
 ## Citation  
 If you use PHICAD in your research, please cite:  
 ```
