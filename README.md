@@ -39,6 +39,7 @@ PHICAD can be used for:
 
 ## Citation  
 If you use PHICAD in your research, please cite:  
+```
 @article{davardoust_2024_DarkSide,
   author = {Hadi Davardoust, Zare Hadi and Hossein RafieeZade},
   month = {11},
@@ -47,3 +48,4 @@ If you use PHICAD in your research, please cite:
   year = {2024},
   journal = {SoCal NLP Symposium 2024}
 }
+```
