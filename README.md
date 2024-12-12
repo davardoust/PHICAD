@@ -39,3 +39,11 @@ PHICAD can be used for:
 
 ## Citation  
 If you use PHICAD in your research, please cite:  
+@article{davardoust_2024_DarkSide,
+  author = {Hadi Davardoust, Zare Hadi and Hossein RafieeZade},
+  month = {11},
+  title = {The Dark Side of Instagram: A Large Dataset for Identifying Persian Harmful Comments},
+  url = {https://www.researchgate.net/publication/386905191_The_Dark_Side_of_Instagram_A_Large_Dataset_for_Identifying_Persian_Harmful_Comments},
+  year = {2024},
+  journal = {SoCal NLP Symposium 2024}
+}
